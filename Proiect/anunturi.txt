@@ -1,0 +1,10 @@
+-------- ANUNTURI ---------s
+
+ANUNT: Concert de colinde
+DETALII: Va invitam la un concert de colinde pe 24 decembrie la Teatrul National!
+
+ANUNT: anunt client 2
+DETALII: detaliiiiii
+
+ANUNT: anunt client 1
+DETALII: detalii
